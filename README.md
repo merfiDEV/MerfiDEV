@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm MerfiDEV  
 
-<!--
-**merfiDEV/MerfiDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Python / C# Developer**  
+🤖 I create Telegram bots and automation tools  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🔧 Building useful and creative bots  
+- 🐍 Main language: **Python**  
+- ⚙️ Also working with **C#**  
+- 📱 Interested in automation, APIs, and backend logic  
+
+## 🛠 Tech Stack  
+- **Languages:** Python, C#  
+- **Tools:** Git, Linux, Termux  
+- **Other:** Telegram Bot API, FFmpeg  
+
+## 📊 GitHub Stats  
+![Stats](https://github-readme-stats.vercel.app/api?username=MerfiDEV&show_icons=true&theme=tokyonight)
+
+⭐ *Always learning, always building*
