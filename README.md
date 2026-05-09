@@ -1,39 +1,39 @@
 <div align="right">
-  <a href="./README.md">🇬🇧 English</a>
+  <a href="./README.ru.md">🇷🇺 Русский</a>
 </div>
 
 ---
 
-<h1 align="center">Привет, я MerfiDEV 👋</h1>
+<h1 align="center">Hi, I'm MerfiDEV 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MerfiDEV&style=for-the-badge&color=blue&label=Просмотры+профиля"/>
+  <img src="https://komarev.com/ghpvc/?username=MerfiDEV&style=for-the-badge&color=blue&label=Profile+Views"/>
 </p>
 
 <p align="center">
-  💻 <b>Python / C# разработчик</b> &nbsp;·&nbsp; 🤖 Telegram-боты и инструменты автоматизации
+  💻 <b>Python / C# Developer</b> &nbsp;·&nbsp; 🤖 Telegram bots &amp; automation tools
 </p>
 
 ---
 
-## 🚀 О себе
+## 🚀 About Me
 
 <img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
 
-- 🔧 Создаю полезных и интересных ботов
-- 🐍 Основной язык: **Python**
-- ⚙️ Также работаю с **C#**
-- 📱 Интересует автоматизация, API и бэкенд-логика
-- 🎯 Сейчас разрабатываю Telegram-бота для управления задачами
-- 📚 Всегда учу что-то новое
+- 🔧 Building useful and creative bots
+- 🐍 Main language: **Python**
+- ⚙️ Also working with **C#**
+- 📱 Interested in automation, APIs, and backend logic
+- 🎯 Currently building a Telegram bot for task management
+- 📚 Always learning something new
 
 ---
 
-## 🛠 Технологии
+## 🛠 Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,cs,git,linux,docker,postgres,fastapi,vscode" />
@@ -41,23 +41,23 @@
 
 ---
 
-## 📊 Статистика GitHub
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MerfiDEV&show_icons=true&theme=tokyonight&locale=ru&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MerfiDEV&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MerfiDEV&theme=tokyonight&locale=ru"/>
+  <img src="https://streak-stats.demolab.com?user=MerfiDEV&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MerfiDEV&layout=compact&theme=tokyonight&locale=ru"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MerfiDEV&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🎲 Шутка дня для разработчика
+## 🎲 Random Dev Joke
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&qColor=%2399d1db&aColor=%23cba6f7&bgColor=%231a1b27&borderColor=%2399d1db" alt="Dev joke"/>
@@ -66,11 +66,11 @@
 ---
 
 
-## 🌐 Связаться со мной
+## 🌐 Connect with me
 
 <p align="center">
   <a href="https://t.me/Tyta_Zdesyaa777">
-    <img src="https://img.shields.io/badge/Telegram-Написать-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://github.com/MerfiDEV">
@@ -80,4 +80,4 @@
 
 ---
 
-<p align="center"><i>⭐ Всегда учусь, всегда создаю</i></p>
+<p align="center"><i>⭐ Always learning, always building</i></p>
